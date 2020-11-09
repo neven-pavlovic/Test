@@ -25,8 +25,8 @@ How to run and review code:
 A little bit more explaining:
 
 If you want to run only one test, do this:
-  For Cheese test: Navigate to Package_Cheese/tests/test_cheese.py in PyCharm Project window, right click that file and click Run 'Unittests for test_ch..."
-  For DemoQA test: Navigate to Package_DemoQA/tests/test_demoqa.py in PyCharm Project window, right click that file and click Run 'Unittests for test_de..."
-  For OrangeHRM test: Navigate to Package_OrangeHRM/tests/test_orangehrm.py in PyCharm Project window, right click that file and click Run 'Unittests for test_or..."
+For Cheese test: Navigate to Package_Cheese/tests/test_cheese.py in PyCharm Project window, right click that file and click Run 'Unittests for test_ch..."
+For DemoQA test: Navigate to Package_DemoQA/tests/test_demoqa.py in PyCharm Project window, right click that file and click Run 'Unittests for test_de..."
+For OrangeHRM test: Navigate to Package_OrangeHRM/tests/test_orangehrm.py in PyCharm Project window, right click that file and click Run 'Unittests for test_or..."
   
 If you have any questions, feel free to contact me!
